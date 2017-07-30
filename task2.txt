@@ -1,0 +1,26 @@
+
+|HOME  |  |contactUs| |profile|   <!--make it as link --> 
+
+index.html  => home  contact.html => contact      profile.html => profile
+
+ on page Home
+ 
+   image house (in each row there three images) [use table] [image should be in link ]
+    
+   the image should open on next page while clicking on image . 
+     after going to image link  there should contact page .
+    
+   you are on contact page 
+      ---  First name ------------
+           last name -----------
+           phone number ---------
+              -----submit---
+after submit new page is open 
+               ---- thankyou for your order we will reach you soon .......
+
+ --------   make back button and link it to home    - --------------------  
+   
+
+
+
+
